@@ -3,7 +3,7 @@ public class OOPS {
         pen pen1 = new pen();
         pen1.setClr("green");
         System.out.println(pen1.getClr());
-        pen pen2 = new pen();
+       // pen pen2 = new pen();
         Student s1 = new Student("Bhuiyan",4,'b');
         System.out.println(s1.name + s1.grade + s1.sec + s1.CGPA);
         s1.marks[0]=12;
